@@ -2,3 +2,5 @@ build
 node_modules
 coverage
 package-lock.json
+.github
+release.config.js
